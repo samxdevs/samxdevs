@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="127" height="40" viewBox="0 0 127 40" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">EMAIL</title>
+<desc id="d">EMAIL link</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAM8AA8AAAAABtwAAALjAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAVBEICoJMggYBNgIkAxALEAAEIAWEagcgG4EFAJ6FsdtiiGKoFFid/OfyUQVDCNEamZnbIrNDdAjC1wI5FprQE1x92bbq4f/fX90h0oIvDriyv7SIrM5wc4K6G5gZ52za/gcwL5tDkMcTN9PGAux8AujmzqfHS9c0SXh6tEG6LLI0sQeBt5slj72UwcUyFxBoD0ghtBACbfUXRba8oKwOtAo0Cwi0NZKNHNPOfLhbpCEECeou2SQLaEGez60A1tl/QeyGmMgCSNoACABYuxTAM4OVV/9NH6gaYjwQkCPzBYOphNBaojs5hpOfGxwSZcCB092kzAKh6E0O0UIWIF6QWwFUQoYVIECiQncKge6UFgPttZaKwbLlK1beLBGg7EbumcceuFcAgBDN6gRagY5og83ACQAKqKTQyyiVQqszGtWR7VQmZY9J1UcYDZ2Gdn2Dvq7V0LD+KejiB5TWoD1R2wX79DITtC0G8AiDkrd89Us3ely5NWhLyNLLxj8rzqCtbVuWPk5ie71Zt09xzVvUPG7ueM77X2cOSY07er3Boi53p7y78/qJnk41D7C73tm77B7tGfxrL/TsXex7Ye9FfhiqJs9l9sqpp1f/Wm2YuPBvK35N1wP/JxVeJ+rwRGL/ENVToBvQCCox9g8I5Mxy+fzj1Z5Oaf9aV4pP+Pbu7nX4/rXLDE6QE/IFLSUI9kDNrQiCM2zOAD4LtLxBhx6UHCDQygAKEFRfe5dVouiAR/h0GOuMTh19pytzBfIFR7fQNzx0S6OjiOpoZrAOGWgf2wSq0EPQgl7Ms9LHlWUYrDE8zKAhIiSG77aQOlGw/zco0U+Ug9cNQxMg5Rg0BlKFx8D16yVCsklEQxg8AWIzRCRiCVJ4eQ3CiIZIenj0YlC8naJF6d3E/rIvW65fH4yEUqPfIAmpGy+GRww/v1QlcqRy0V0LbLB5AoxySFKpEj6N8wS9eBiWSOAhwJA8GLxBXpUKlGnU/0fBimDxO7uRML1qMCjdaAqgeWK2EQAA) format('woff2')}
+</style>
+<defs>
+
+</defs>
+<rect x="0.5" y="0.5" width="126" height="39" rx="20" fill="#f5f4f0" stroke="#101018" stroke-opacity="0.22"/>
+<circle cx="19" cy="20" r="3.2" fill="#5440e6"/>
+<text x="32.0" y="24.5" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="12" fill="#141417" letter-spacing="2.8">EMAIL</text>
+<path d="M89.0,25.0 L97.5,16.5 M91.5,16.5 L97.5,16.5 L97.5,19.1" fill="none" stroke="#5440e6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

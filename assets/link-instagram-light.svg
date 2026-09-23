@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="167" height="40" viewBox="0 0 167 40" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">INSTAGRAM</title>
+<desc id="d">INSTAGRAM link</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAARkAA8AAAAACEAAAAQLAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAXBEICoUYhBcBNgIkAxYLFgAEIAWEagcgG6AGUVRR2iD+UMCB3LoVCGkvqbGwjGbDcW8Ylh5m0acUefDFb9GYw/zLPb6cPWk9/F6Mh+fXvp37Zj5i4s01asU7VLUonrWupQWO1tq8eQXf+GZy4u+2h5RMq9QIFMO7L7YhD9wzu5UuVNnRmiIGeZIUWVCZ39b/AOllk/ZWNxOicu9/bN4Hv48kyCbaSDrXTJpKN399yatryMurpDYb2PyfSxdNwz1PntBQL9P2Ph4eRlKlyWlTBbafN/BApweEZW4shg8gBiv3dJNlVyBQDZCEUEkIVNHMG8W4CW0C9HL4LyBQRQd2SpfOrNtW4xM8OMKW52lRlCiQzqVFwNTl+Fgh2CiQqIzVYeqUB+CxVogt/wfmH4puQEDqkL6hFY0QKkmoR4l2lLs3brACm//0oKgp5BpRQhSihHhKWgRkQopaAAESMtSjEqhHbRJQQyVJBa0U1DR0EScqtmOoh3vsnkVhRYj/qomp4tx6QHW8ICoDcpBJolmFF5JnWaUpfFW11zpig7GSiS1ktQk1Hf1mUzMVkUKi3kTtmvTiu2z1vH1GNuZfVc/rhypHBc9dSEcePf9JIKFwBO9Vg7KRCKFKTqFqgRY2Zv0rey0XUjWSMWdZy0XIbaibPdy4CmmaoaYVAqkqGzr9CHKLjRwqmTXGyVHBKpFB1VFVaduzoFu34SvUyJHlnv+u/z38FnW/N7819jYFo7WuQ0zQ9Z/lOzfY9fhph2jtQ/u7U2uOxSIefuqp3BH0tMTLxWjzenoqNQ95mhKHxJl34F0Z73voIy58c2ZryZ3RA5qtObCmn3Ch5eK4kKKTk/5cLe8x4q+P/3PyW1dZz/zGx/ydt79tc5xVDSvunY2d/3LmQ1Mzdo9BKqsd4md939SY1WGMVCNA+DF+fdjXHG80d/8XB++fjBtNC9UB0ZjHVxuwF7yavX5/XbTfkfZFAnGvXX9HS5vkpcWhTtpdaQ+kOr72wO2/zP2PLJ3vxrKmeUlhuJvxN3QHoWw3rytax7v1AAikAfnML43bStuw0kpZ9hu+v7tN8PNr7cR1Zal7+oEKEgj+jy7SIi6u6X7yTEaIM46+maIBQkEICFTRlQoEXlXNZSvyyriPKIQufoWkhp9CZoi/2txNKGhSD6GCTk3iaxjQroSgWtwmuIDfhWviD4+rxRhvjXV28e1ma20DQ4L8Dw0hlPDyGpuWsKKbqa2TO6Tj7OQM6bs521maw5ACGbZxdnOH2G1g2MVdko/P2tZJZ9mM19zZkU+g4mp76HYcG3tnO5YWtmRHQ0trsoOpmyCvoICAlKaiVKn3QMFU9OZuSzXoqghI4WSAu3n6Yy+wOy88OPCmb/yaT09VG235ifIB4YYxpw625obOjqZOVMD/CR5GAAA=) format('woff2')}
+</style>
+<defs>
+
+</defs>
+<rect x="0.5" y="0.5" width="166" height="39" rx="20" fill="#f5f4f0" stroke="#101018" stroke-opacity="0.22"/>
+<circle cx="19" cy="20" r="3.2" fill="#5440e6"/>
+<text x="32.0" y="24.5" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="12" fill="#141417" letter-spacing="2.8">INSTAGRAM</text>
+<path d="M129.0,25.0 L137.5,16.5 M131.6,16.5 L137.5,16.5 L137.5,19.1" fill="none" stroke="#5440e6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

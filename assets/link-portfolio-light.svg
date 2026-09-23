@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="167" height="40" viewBox="0 0 167 40" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">PORTFOLIO</title>
+<desc id="d">PORTFOLIO link</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAOQAA8AAAAAB3AAAAM2AAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAZBEICoNIgmABNgIkAxQLFAAEIAWEagcgG+8FUZQvyl6ILwt4ItIFvyGuEOeIYRF3NWJDFfOlGkwRyjf/O8Wavs3+wI3zHs9/P/a/tc+9XxQxmY4nlfgSkjyaZqbTqH86GY+EStXpn/blam2LSiQxHxVvkES83YtIzlAjg3NbRlK62XZHNFFJ6k3jSZwGzRKh4amOClmssu5+/cHCNOFWQFksIYX1/n/1PwB62aIa1rmBgJOjc7NHozMVqk5cTn8swD+fhI86Nj3uEXfxmiYJPDX5hbrEAg0/IAwYUjfGNYIgSfre2OP6AoJJQIkYEcG4jZoSJ0/vbpDXYVFAMG43XJJyWvX+Tc+ABhF0vtcgs4aot/UCLrjduaYfGxRjJj/+4vPHAXyFrW5tbkFpc6GBQO0ujK0yIkYVVkpip+TjW5KXwJ0HSEssEd1aSchQZsl3agA0UVkKEFBoWCklWCntKrBUXQpbLaztnFzcFgWR43vd19nR3s62sKeMLGoJGAPLgSm8AN4DOmgiopQSemst9Lqqfp/ewoYef+Y2fMChsseu4GGBG1nsQUToY2jijpIR/M2g3qgO98USoXdO77J9E46YUAROBKYT7rKnPZ8GiJqg98YbPDlSs/6ESoLX5VxMYbkoIsBkZ2mWnTt3gRZu9qwCIMbCeV7MBsJBMXOZYczJBCIBMfuLQhllCsPIVeQFCsMlgO+tKsF8KIgKFSnmZMeBwSBEwQB0AHyrJRFmAolk/TtHo3GpkO5AtmwZ/uUB+PUWX8U9IwAEdaC7v9Y7s+TY/3yq/YOfMrPgz18mGSz+iq4rhhUIG86qAYFAz17EgUgNfLwwdCc3NwMgGLNVCsS8NOmdJn0MH4F07Pejy7Q/dHPEf7PT6CHrQ9PD9iZOTTuQ7liYzIyBQ+gHcAn6ud9SxfxwgskSc8hEEg+mr/tyMLcgyD+6wfNMOBCZwYXZMwFoOidOHyl4rIQz5rsjickhm7j0APBYXEMdHSKZR+JjtLFMuk6i+WE19THEj32zezyOzKe74Il8GsTR19bX0zOyMTHq2y0p8DFyuGTbwMZKRGYXw3Ox5XcsHiTbXJ6mXb5uUcfRws4Tv0TTguD6MxGNjHVh0iGGFLA4/c0IAAAA) format('woff2')}
+</style>
+<defs>
+
+</defs>
+<rect x="0.5" y="0.5" width="166" height="39" rx="20" fill="#f5f4f0" stroke="#101018" stroke-opacity="0.22"/>
+<circle cx="19" cy="20" r="3.2" fill="#5440e6"/>
+<text x="32.0" y="24.5" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="12" fill="#141417" letter-spacing="2.8">PORTFOLIO</text>
+<path d="M129.0,25.0 L137.5,16.5 M131.6,16.5 L137.5,16.5 L137.5,19.1" fill="none" stroke="#5440e6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="157" height="40" viewBox="0 0 157 40" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">LEETCODE</title>
+<desc id="d">LEETCODE link</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAN0AA8AAAAAB0gAAAMbAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAVBEICoMwglsBNgIkAxILEgAEIAWEagcgG9gFEdWbvQG+TKB69dANmzW0i+VK1TZTCfGFcP/kec7x8L3t1XPf7spELMKViamyW8m1Oaky7oItUAnY5acFrLAy2PCowoZwjRMeoD99MRwA+X8OkLK2uItzHpSpHLD81Jl1y8MM8OJUTjZGYBIGdaw/zxwWzvnqWOLlCoQCVt8YK2gBowXiQm0rpLdgqdMWd81AoC8gCaFKCPQ21nhRLl+7VU85vBIQ6G26mRJzWf+zh66eN5JETOdpZ/yrIHXJTqxZj8d+i6OVRC9BGv7k6nZ8YqKt2fOXKXsecxGQpqcKJiqE0FPCUAlTpRsnTl4NnLp66GwMEHIjJYgi/iU+I+1EJqQYCAIkZBgqExgq14q+ekpyE3Vaa4Otr8REHZVx+8iiYAg/BH+LAaAnGIg+uI3XgZw72WL1NnmWTezbu2/V4P49+xT98sP9iqNn+h7q6o7s7kyf7iq9737tupTuvNUd3OdOZp+iCSmle2+H4b3W3p2qn75mmUrzfrTMLWfbu4MzzU8tekc/vfPdlTcqZ9HchpZXc+rnWtCrPLq4+mBb2V594OjisjyypHp/+9m691HzhXXWfomaD+xsW/WBI0tsqXy58lR1/ZFyTEf9sVPVKw8cOthYtjeMqS/bGw/aX3nzoH8z8cDEv/ygc5WzN1qOmNOrPLx4qT6z9MBhpSA60NbZtvTgXDsO1Nyzsq4b1U92WfuU/r9x9O+jN4BAqs6/v7H3twMDGv/rmWW/wY/fP3uMX34YtNSSV//LtPQTqiQQPC5P2knQlgBvB4juYnbbaIv9ztloCQI9TZSBYJN93c9E3gsfkHNhtg+4pL9fuEy9f7dzjiuMjvlclZmxku2vOi42gr7xzJCCeA8ZQHx03UC943MdIhRjFUnVoMCbffSpIhxO/p5mVeEor9EVckCPCmJOG7RsGwUVDVoOzYDC/YUbAxlRX2iJQyFzT+qtm2efot/sl71yFrXZi8s2xVXgBL4fnlbh2LW1kF9d1ZFtIV+LSvfXuF1Nq6hoaqeOUgcq6d53lz//R21F5LhMnEb0BRnO51V48BoBAAA=) format('woff2')}
+</style>
+<defs>
+
+</defs>
+<rect x="0.5" y="0.5" width="156" height="39" rx="20" fill="#0a0a0c" stroke="#f4f4f8" stroke-opacity="0.18"/>
+<circle cx="19" cy="20" r="3.2" fill="#9a8cff"/>
+<text x="32.0" y="24.5" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="12" fill="#f1f1f3" letter-spacing="2.8">LEETCODE</text>
+<path d="M119.0,25.0 L127.5,16.5 M121.5,16.5 L127.5,16.5 L127.5,19.1" fill="none" stroke="#9a8cff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

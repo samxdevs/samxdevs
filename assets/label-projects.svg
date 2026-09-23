@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="36" viewBox="0 0 1000 36" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">02 — PROJECTS</title>
+<desc id="d">Section label: PROJECTS</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAASwAA8AAAAACTAAAARWAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAbBEICoZwhU8BNgIkAxoLGgAEIAWEagcgG2wHIxF2e1GqAfjr5MkQdWzv2DCCRsTCJRczHUqKiJmiLuXC+sfya2EsT8jciJBPX5S/Zx38879m3vf/TJId2CLTEqFNbE+F6llX1GVZCayR1cLg3A6komJx20U0vlUCwOxWSl/JBHfGsSowv40C+I+En/Zzw7RBEkszOfu6ezNLiN6feUPjaCMkRoOQqJDFE4lEp5KX2mxr99yr+i8bIzA1YkHMZY1JY02QRCyxUKjdWCrtoRUr9VVrc20i9dJNFc7DWT37AggIAACDEDGEAI/ZzEWHj55OIYYDMBYAEOCxlOUYzHrJNYUtdUxHArsck6G/uGDiswhw6t5beWzUfjCQRCMoDjx5EHjAfFLs8CgoZ1IZEIBZat7AfNxdpw0wORGLa9rLK1oE/PxyWxqHcJiOAZCrv6BHmAzAIozGA/HB1FpgMhbV33fIACYyHothPuvZyCGOcJLzpIwFO/McF3/C2Jf/2/IyT0TzNEJjGQdAAMB0YCJoPKgWAHAAsAghzAVC64HgWDu/t8HEibNh0rikVbHxhQazfDd0ikK3pHq6MP7ihexgvPQT9hxvUL34xgwcP3HlD+AZ2kNAjxXtCsvbhKyn0BkAg9KsUaatHbNMateJGvI8YxfHB93zSux45mSWEIqM8iDBwbn1a5HQa1P3ljswtny+n6MbegrxnE3AS8IBx1t6/J4Gu59gBqqv9KfB0G31Xi4T6n2lpMyQ5eqb3A02We+vGtpM6w6XeLDBg4BFwRMM5r34EBrsvtd7oxv6TnoPfZGL0HWppjzXCg59zQcrf4ECU5hU031crqscZJmDcvMvnjZa3nNkWnW4yOOjZPpETmTgETzEfcaFBgS57K9Zt9ftDdb0Gkvx41gForkAsHwZRToLw3D7EigDTjuAd/TuSKmPCh6L1/4vD4KLVYyt623V/Zj2t3qmtScrXWxXr3tCVJM4cZvfrrJnZuY3WykF7eTdwcJJ3ZS165F07qr6ur2cWZm5jXZaZftlj+m/IyW/S6SdVUdKEDG4BlgUUShcQFiAxolRQMF9CgGiEQjQSQX5WUgtLqwtdN9mcd2U2u/HLfVNK/1CQwCpMXBoR66MwoG8Fx34OZwnErdD+3AoAASYrU5ivNj8cbv/xWL2I/D2yRAB719P2LJ07H+0bN5BBAOA4EM3mAwEg9VLEI1S3swszpPH0hF/CikcYBMn9wIBAauxfF0zIuBKo5wk4A5ztljJHbYhmfdsy07+jjs4tstMrWVHWK7jrGS2qqFAEGgogUu9DeOo9843Hk+PF6wU1dM5hjXjzXrvjL+tQCmP9WnMpY442YhfFFmJ33WFpwgzvrBMVtHR6jz3caZqDGs1hkNlWniVkBVSLVJPuzz2IoWd/WcvFMlZ0pNiLBHpzWqz0Rgdl6M8WeEivogDQyRjcbahsHQ9DRyrifPPVU2jyq8UBc/vNKZ2255/1DPqZITD30QiRzwVCckxgDGq+TYCAAAA) format('woff2')}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+
+</defs>
+<text x="1.0" y="24.0" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="14.5" fill="#7d7d8a" letter-spacing="3.8"><tspan fill="#7a68f5">02</tspan>   PROJECTS</text>
+<line x1="179.5" y1="19.5" x2="978" y2="19.5" stroke="#7d7d8a" stroke-opacity=".45"/>
+<circle cx="989" cy="19.5" r="5" fill="none" stroke="#7a68f5" stroke-width="1.4"/>
+<circle cx="989" cy="19.5" r="1.8" fill="#7a68f5"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle>
+</svg>

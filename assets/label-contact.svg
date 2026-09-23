@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="36" viewBox="0 0 1000 36" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">04 — CONTACT</title>
+<desc id="d">Section label: CONTACT</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAP0AA8AAAAAB/wAAAOcAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAZBEICoRUg18BNgIkAxQLFAAEIAWEagcgG24GAK4CnDJndayjRYiEHYuYvDP5TsWWdw19o3j+n/2+7XPfe4O5RPgJj5NIotHqTLPOonlldfEQid40auT7/I9779OXMuwJDGkJ2VWJpy/NpyM7lJ3++w7m2u0dr8SXpGoTvyGhkjVnMiESyeHa2P//5t/CMYbF0XtRYkUFsvgL/eP/+AZe9rE1+h8Avez/3Ez7vZeH6SSPNLA5uCyPJ44b0+QOfC3eGF8nFGh6RHI2rzU/aVPqiqEBgqmAEtGJYLKlzEivpTEAgxb6AhBMtp4XxSx2f20eOXhEgsNtjZE/HTVGDgIct1fnLHzJAIpJJm5sPHYEwGtYaaj5/z8x/tA4QKDW1w9WEiImKsxFsRa9tXpBArh8fcsQD4jWQhTSkTp5Sw0CNKKiAwQUGszFBHNxZ4CZdBhWikqqyWsb9HnRVrtuMfr5WsUURHLrfwCTwGwwHY/xE4AWNEpEiUZoGyaTW2cbNAb5gFuVUqj5glq7tHl7M6tcKkaKweTN6GLR3qdg+7YsRLO7rvT4PMPk4YEa66CGenp8JKbsTBPdKadPYaSSK2ZOJlSWWWym+JEme9lOQdSY3GJhRRaY3jlnYx9i+Hsz/oah53dRkVXlATdR0omfR0e+K1io/G+JBRF4sp8VUW+5a+tIZt1E7/5CzxXW9j7smFRY8qXnsoVcaPbgayrs/emZHBN9RAfecDHyjsJP+Fo2LIQ2oP/9yFQsFW06dGwd1jvHYhFv0r5zG+yTCgu+ZBk8MLuTOJzNFrNega5uXIf3cS+6h/afxb3IOfx7du7Xwa08orgUzGRSDaHZY7C5RILt51I1r8CZpkWkIR8uZwwvQrnwr2MxGe3G8XUmB47vlB/Yd09b7sMvr/IRgKD2t99tc2X9kPhrULM/+DBcL4CvuxhEoP+vnPWLAQXChw9rEPbOW04EM1Fk1hV9ujr8OlSBYJKtGIh+bKrbGmnl4DlrNjZ7Yst0X9nGYfXRFsd2FsfFDtiYCjPd/ggxAlNzQyCwW9BiL7fpKPLqKJ7glYR0doGM4qI6sBrywtHskKahHMkWiSMz6sbj8Iz6SHiUoz1kVKNAFzyJzMhrDUICWUxExCoS1bJix2URj+W2U7Vf23se68l+2W5HByQFq+foTMHYkviExcXEFHTIibdxZy0YRRIZSSNGGUiV8tsQbHOfR5IEaLp0RGK47m/1mVuvkoax4xsVK0K1m1sM0l4Pj7XFUQP98f1GAA==) format('woff2')}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+
+</defs>
+<text x="1.0" y="24.0" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="14.5" fill="#7d7d8a" letter-spacing="3.8"><tspan fill="#7a68f5">04</tspan>   CONTACT</text>
+<line x1="167.0" y1="19.5" x2="978" y2="19.5" stroke="#7d7d8a" stroke-opacity=".45"/>
+<circle cx="989" cy="19.5" r="5" fill="none" stroke="#7a68f5" stroke-width="1.4"/>
+<circle cx="989" cy="19.5" r="1.8" fill="#7a68f5"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle>
+</svg>

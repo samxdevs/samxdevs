@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="36" viewBox="0 0 1000 36" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">01 — ABOUT</title>
+<desc id="d">Section label: ABOUT</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAQEAA8AAAAAB+wAAAOtAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAVBEICoRUg2cBNgIkAxQLFAAEIAWEagcgG2YGUVRRHgB8dWAbMx/6QZCAGIMVG7HRN5aH02FehcLg8GcjFLgV0fN7f86e+z6ld10VGoRBWKRBSDy4kqYjbHy6RKb8vF35RpdkfoyDV5iFedTsKEInVmJRs3IptqzjLjz/7+2+bYlHEVQCo4DCzgk8xVh+/tuXWezwgTDRUgrCCbhu1MPwwTX17gP8scmf9MGqF/azTSCx0mQCUUBVnGavExuATrchKQJI8adrt/P3BoIRQInoiWDIis2wMxDLwXwd/AcIhuzphnPGW3wPinOwlolWd+0We9OjvpoAbuLJuUAbF0Ax6CaPmdc7gE9W+f7nH+h/dORAoLb6iA2UiAGFGTh24O/4hIjh7hmcwcZFZwEOWfJGfmoCaKIyARBQaJhBCGaQroARA0png4ZHUr5gg5pbUq78/062VlUAQKQYB4NgCpgAHvEb0IGmNCWiCV1vA4PTgwtKly+ev3z54oUIUYvIoUXUyPRC1I/qdIHOVVHhmlaffd2MKHSEsB+vaewpE7eAssYOiFYbfHjVg4f1FiMO+B1fNQ83r7DqEZY9fKDqiygaWwR0xy1gFCKHSjGSgXgaDUIckcXDEzuw0JEB+zvCEJXDiohEUPl442NdI7c6/8sscpA9fzg+MbOy288eyLnslubl06UZpXJJ5i3kP76bkIZL2t5QtEtHD2R7VVmLw1gb0fh31QSL186YvF6LUJk1ftBo3hvmQDboG9LqB9w+j75fPB+geuz2u1FVTubtZ46afOYjjPG82We6AH+2HfkxchvIBic5fnjxzGKGNTH7mMQdvlxYmeEfMTADbofH2D9q8AdUjWOPw42qWuGrmTxexsEEKVNSxXza2LZpY+vG/mmb2qA48GDjg5PSrXywXEwAEKBOSfrfv1/9bL/nN+J7AF9e3joHwNcPywwgM1CXoj6jT4Fw0PM1QeaKTQHDyypUkiIvRSctogAEg04QIHzdiHtNxiDekUtx5L5UxnyVmku/ujue1LMUpdTnICFxzGkaRWEkDw179BOO0x82m0DnswOrYQfepHETRM201HOuWQ7FUS8yfgCRB2/QpDmCZnGsOaxmKTzWlFHDRM3cJKIJLJ6gWbcJIlGDwEJFZdwk0QTJEKVhrFkqOzXE7b1H6XmzbzZu1IhJklkZo8ZJZgziaSlpaWhYRXhYtVdRCwsqDwRDupqrtaVK/a9xP8Ew3qQGkUBJMGmGEos3TiUpIKZo9B/VVsRwMgfNmDQsgzVr0BwC+B/taQQ=) format('woff2')}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+
+</defs>
+<text x="1.0" y="24.0" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="14.5" fill="#7d7d8a" letter-spacing="3.8"><tspan fill="#7a68f5">01</tspan>   ABOUT</text>
+<line x1="142.0" y1="19.5" x2="978" y2="19.5" stroke="#7d7d8a" stroke-opacity=".45"/>
+<circle cx="989" cy="19.5" r="5" fill="none" stroke="#7a68f5" stroke-width="1.4"/>
+<circle cx="989" cy="19.5" r="1.8" fill="#7a68f5"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle>
+</svg>

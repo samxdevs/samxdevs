@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="36" viewBox="0 0 1000 36" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">03 — STACK</title>
+<desc id="d">Section label: STACK</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAQ4AA8AAAAACDQAAAPfAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAZBEICoUMhB0BNgIkAxQLFAAEIAWEagcgG6wGUVRRAiG+KLAbjg2RwBAnnFwiIkz1Vd3Oz/EdDWt7xEgR//3aZ5/7ZhY5DBolgvwqoFiS8CkfIVM+GkHY+BVqJf2gl/+SK5Ma+eAJuda5UkfkyMIrp07t9OFJHgFP9Pr7HwC9rM6t5AIDJRS9P8xMyP3/+1M1YwPlPA8kQkFcswMb7KI5cE2QCgaoVJreq9DXAgW02AJxgaG6yRj3AcThZXPXqEJAMAEoEb0IxuxUBbl4uVcOaTrYEhCMOWw7VBIv6/nDWABKhLjzXQ2ypqfe1AC44Z7OPYI0g2LUVMZf7Pp5AF/sJW/rm6SthwUE6nA9x17JIkYUFqA4CH39yBVD8OSFxYdMi84KFNJnjXyjBkATlRmAgELDAoZgQZK7wIwcDOzFI0Rp0UO+hcRGknWNUjjjaAFZZEvThFHPzgGT+E2mAR1oSjrCTehaG5mWTmQy0/KyMgg8OTPJmplMezNwE27AlJhchyt3Py5afUhYFh4/Rhjz8wRf1CPA5oEtHEDnLr74EHyOD/FkHMV1uFqDaTFUn8PnZC2DzG+JkjAXpxTWObfEikePwGJgSCZgSSU8NBgpF59w+cYWuDVLtXAp8xEvuzmrYJRX96PAMESVgWSCHFlcjMMd2ud7nxv4rLqm/8xaFjB7tnIU/cwzd350U+5+/v0rOcMcTvbwY+BqpQUSM9Uqk5hoQWurTSgxynw150nyhrRNepMkL0h9lMRkE4L8uY9nWeUmjhiOT46vd5q6gKPbzavRNnkFbdLGWork77ixpisbKFIG+urFGhu/lR7zgtbHu0yKj3F23FjXlw8UKoL9DTV6pwD+jRb9i65RYGqjxaSZapRJTHZxWzstlphkjRRppsWteqmshWwkZS1Sf4R8UbGpsmJjBV6ochNs1GYXSoxNPvKrtOaNWCJ9WdPvOLRrr2nFcfVCmWs8bCabSKNDCAABUJKkdF1Fiim7/m8ag/EB8B/71wCrP1cMzP+VCH2LiyEFwt+SrYGAs/kAxPQS/ABaTIPkKELdKCAYdRIDBC5NeKtJN4oPXEIcdwHKlFVozvmz2smgtz0cGHI0ndKUUwn1hIm8A97T7/Fp+tNjM7D8c0FQyLgINyeXGIIA7xQR5CRu97oHajEyERZuAVGEPkEBQYRBEUEedjYxBEpcjEtQRBRhO5eYmJCoWlxcTm5RwnFWHDZBflyFptN26X123Ng328eO5hbnN8zOKc7HIkKAQ4CPr043mbq2zk6FKysRUW6sEGMhSSY/jNYomwg3WYmJ4qT3fO71oAgnrgHteqnYX9F4QrzrPS183GyGBflZBDCArRF8jAAA) format('woff2')}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+
+</defs>
+<text x="1.0" y="24.0" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="14.5" fill="#7d7d8a" letter-spacing="3.8"><tspan fill="#7a68f5">03</tspan>   STACK</text>
+<line x1="142.0" y1="19.5" x2="978" y2="19.5" stroke="#7d7d8a" stroke-opacity=".45"/>
+<circle cx="989" cy="19.5" r="5" fill="none" stroke="#7a68f5" stroke-width="1.4"/>
+<circle cx="989" cy="19.5" r="1.8" fill="#7a68f5"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="40" viewBox="0 0 87 40" role="img" text-rendering="geometricPrecision" aria-labelledby="t d">
+<title id="t">X</title>
+<desc id="d">X link</desc>
+<!-- Fonts: Space Grotesk (Florian Karsten) and JetBrains Mono (JetBrains), SIL Open Font License 1.1 -->
+<style>
+@font-face{font-family:JB;font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAK4AA8AAAAABfAAAAJgAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhQbIBwqBmA/U1RBVEwAPBEICoEMgQMBNgIkAwgLCAAEIAWEagcgG9wEAC4GYzfNEItVbMymoyGQ049OUXK5eP6/Mdp9f2bFFWsaJUEom+gWLXROpyW802g0DY228vdz+pKMSZUUkRoBhLj9+SNbIQekd1VjvZtECSjUzlcOOkYvuFl2gabGv897S3cSbR9E5xMe73nXBZJg4sdlvTSVaWK5huk2FcFP0Ioxw5oRjAPi1xi1zoZ41DUwATk6XP0DGHXIjRxW9JLGBtQgj0GvGSJtgHpXMwCerD8+TyGaFoBiBEAA4PEDAF9g20z7ufxBO48fCNRhfWFbpohhhXkk9pFvRQkTwLNXtEYUQ3TLSMgAkSbfqDMATVRKAAIKDfMowbwMx8CgLsq2mSvkf1z9WgCRK1OggUF07AK3AOigCb1RNWOZhRlMYSanFuTPz+VPHp4u7J+vTefPzOZNHZ0t7pwsT8x9HX/BX9/876vzg+u7FS9/m6zsra1Mirer0a8bf9+q6qurTKIPAEHd7o8fP1subvifQ1Hf8PMpdQT/Pktj4AJ1u74wqEAYtq0zBHH1IKQAUjMwxwUEzTIKhIyNe69JzwU+sEecukaZ9A/Nfelyx2HAaoIYdJwePel24h4BxpNSmimvaLG8OVciL48eMsVtQmQiCeYQFa5vw2GChOfQh4e1QWgyg8VhkMlgchiBmBQ8FubQahUmMSEWBzcJhsVZ6oSEiGSYZBUjiGXShToln5veXTw3e7KDeBzZKt0YnmiVhoZEBUVFRNTr06beqgEuOuUQi6wlR+TCEj+N+ywsRBaHWYIsMk2QCRGFDOsyYBr/RlFG2hsmTSNjjTHpaAYKuOJFfyMA) format('woff2')}
+</style>
+<defs>
+
+</defs>
+<rect x="0.5" y="0.5" width="86" height="39" rx="20" fill="#0a0a0c" stroke="#f4f4f8" stroke-opacity="0.18"/>
+<circle cx="19" cy="20" r="3.2" fill="#9a8cff"/>
+<text x="32.0" y="24.5" font-family="JB, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="500" font-size="12" fill="#f1f1f3" letter-spacing="2.8">X</text>
+<path d="M49.0,25.0 L57.5,16.5 M51.5,16.5 L57.5,16.5 L57.5,19.1" fill="none" stroke="#9a8cff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
