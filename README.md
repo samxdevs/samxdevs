@@ -7,7 +7,7 @@ I'm **Sam**, a B.Tech AI student at Amity University, Noida (batch of 2028). I l
 
 - **Now** — computer vision that runs offline, on-device, in the field
 - **Won** — 2nd place at Amity Ideathon with SPROUT
-- **Make** — Hinglish reels about AI tools and dev stuff on [Instagram](https://www.instagram.com/samxdevs/)
+- **Make** —Reels about AI tools and dev stuff on [Instagram](https://www.instagram.com/samxdevs/)
 - **Ask me about** — YOLO on a Raspberry Pi, face recognition without internet, RAG pipelines
 
 <img src="assets/label-projects.svg" alt="02 Projects" width="100%">
